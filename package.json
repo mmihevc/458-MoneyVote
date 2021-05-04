@@ -1,0 +1,31 @@
+{
+  "name": "Voting_hh",
+  "version": "1.0.0",
+  "description": "### This is a solidity smart contract to vote for the best actor portraying James Bond. Students must modify the contract and add a test to ensure that voters cannot vote more than once.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.1",
+    "@nomiclabs/hardhat-waffle": "^2.0.1",
+    "chai": "^4.3.0",
+    "ethereum-waffle": "^3.2.2",
+    "ethers": "^5.0.31",
+    "hardhat": "^2.0.10"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ProfessorGersch/CS458_Voting_hardhat.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ProfessorGersch/CS458_Voting_hardhat/issues"
+  },
+  "homepage": "https://github.com/ProfessorGersch/CS458_Voting_hardhat#readme"
+}
